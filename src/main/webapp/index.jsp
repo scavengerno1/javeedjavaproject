@@ -1,4 +1,4 @@
-
+ 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -118,7 +118,7 @@
     <h1>SERVER2 DEPLOYMENT</h1>
 
     <h2>
-      Hi Team! We are implementing CI/CD workflow using Jenkins Server.  
+      Hi Team! We are implementing CI/CD workflow using Brilliant Server.  
       Continuous Integration . Continuous Deployment . Zero Downtime.
     </h2>
 
